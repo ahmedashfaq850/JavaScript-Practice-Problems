@@ -1,3 +1,5 @@
+// Iterate Object through loop
+
 interface obj {
     breed: string;
     age: number;
